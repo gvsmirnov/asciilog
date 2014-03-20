@@ -10,4 +10,4 @@ TrollFace.display(log::debug);
 
 yields
 
-[!Trollface](http://gvsmirnov.ru/emotional/trolled-log.png)
+![Trollface](http://gvsmirnov.ru/emotional/trolled-log.png)
