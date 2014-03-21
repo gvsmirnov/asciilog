@@ -1,4 +1,4 @@
-package ru.gvsmirnov.emotional;
+package ru.gvsmirnov.asciilog;
 
 import java.util.function.Consumer;
 import java.util.stream.Stream;

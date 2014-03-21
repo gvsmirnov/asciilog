@@ -1,4 +1,4 @@
-package ru.gvsmirnov.emotional;
+package ru.gvsmirnov.asciilog;
 
 import org.apache.log4j.ConsoleAppender;
 import org.apache.log4j.PatternLayout;
