@@ -11,4 +11,6 @@ public interface Emoticon {
         getLines().forEach(c);
     }
 
+    Emoticon TrollFace = new TrollFace();
+
 }
