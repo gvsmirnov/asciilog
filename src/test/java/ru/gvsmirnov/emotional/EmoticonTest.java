@@ -104,6 +104,7 @@ public class EmoticonTest {
         console.setLayout(new PatternLayout("%p %c %m%n"));
         console.activateOptions();
 
+        log.removeAllAppenders();
         log.addAppender(console);
 
         return log;
